@@ -1,2 +1,2 @@
-# eos-vm-test-wasms
-Binary wasms for testing eos-vm.
+# rsn-vm-test-wasms
+Binary wasms for testing rsn-vm.
